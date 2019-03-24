@@ -17,6 +17,9 @@ html {
 	width: 100px;
 	height: 100px;
 }
+.chec  {
+	background-image: url(img/chess.png);
+}
 
 .chess:nth-of-type(2n+1) {
 	background: #efc5ca;
